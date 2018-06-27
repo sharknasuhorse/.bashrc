@@ -1,0 +1,3 @@
+# .bashrc
+
+sharknasuhorse .barhrc
